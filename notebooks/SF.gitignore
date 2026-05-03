@@ -1,0 +1,7 @@
+*.pkl
+*.h5
+*.json
+__pycache__/
+.ipynb_checkpoints/
+Data Set/
+models/*.png
