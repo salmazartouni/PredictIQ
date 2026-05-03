@@ -5,3 +5,5 @@ __pycache__/
 .ipynb_checkpoints/
 Data Set/
 models/*.png
+models/rf_energie.pkl
+models/scaler_energie.pkl
